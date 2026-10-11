@@ -28,8 +28,8 @@
   },
   "theme": {
     "package": "@rathnasgala2/theme-default",
-    "version": "3.0.0",
-    "integrity": "sha256:14cd28618f8f726a319782ca3a126845df5472cb76e2f778e7016ba5f1f56e42",
+    "version": "3.0.1",
+    "integrity": "sha256:2d197e270e6e63636e2cac0c6823c215b63933930248533118868eae3ce17869",
     "registry": "https://registry.npmjs.org/",
     "contractVersion": "3.0.0",
     "compatibleWith": "^3.0.0"
